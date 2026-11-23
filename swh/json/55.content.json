@@ -1,0 +1,832 @@
+[
+  {
+    "content_id": "10055001001",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:1",
+    "media_type": "Text",
+    "index_reference": "55001001",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Paulo mtume wa Al-Masihi Isa kwa mapenzi ya Mungu, kulingana na ile ahadi ya uzima ulio ndani ya Al-Masihi Isa.</p>"
+  },
+  {
+    "content_id": "10055001002",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:2",
+    "media_type": "Text",
+    "index_reference": "55001002",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Kwa Timotheo, mwanangu mpendwa. Neema, rehema na amani zinazotoka kwa Mungu Baba Mwenyezi, na kwa Al-Masihi Isa, Bwana wetu.</p>"
+  },
+  {
+    "content_id": "10055001003",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:3",
+    "media_type": "Text",
+    "index_reference": "55001003",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Ninamshukuru Mungu, ninayemtumikia kwa dhamiri safi kama walivyofanya baba zangu, ninapokukumbuka usiku na mchana katika maombi yangu.</p>"
+  },
+  {
+    "content_id": "10055001004",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:4",
+    "media_type": "Text",
+    "index_reference": "55001004",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Nikiyakumbuka machozi yako, ninatamani sana kukuona ili nipate kujawa na furaha.</p>"
+  },
+  {
+    "content_id": "10055001005",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:5",
+    "media_type": "Text",
+    "index_reference": "55001005",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Nimekuwa nikiikumbuka imani yako ya kweli, waliokuwa nayo bibi yako Loisi na mama yako Eunike, na ninasadiki sasa wewe pia unayo.</p>"
+  },
+  {
+    "content_id": "10055001006",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:6",
+    "media_type": "Text",
+    "index_reference": "55001006",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Kwa sababu hii nakukumbusha uchochee ile karama ya Mungu iliyowekwa ndani yako nilipokuwekea mikono yangu.</p>"
+  },
+  {
+    "content_id": "10055001007",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:7",
+    "media_type": "Text",
+    "index_reference": "55001007",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Maana Mungu hakutupatia roho ya woga, bali roho ya nguvu, ya upendo na ya moyo wa kiasi.</p>"
+  },
+  {
+    "content_id": "10055001008",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:8",
+    "media_type": "Text",
+    "index_reference": "55001008",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Kwa hiyo usione haya kushuhudia kuhusu Bwana wetu, wala usinionee haya mimi niliye mfungwa kwa ajili yake. Bali uishiriki pamoja nami taabu ya Injili, kwa kadiri ya nguvu ya Mungu,</p>"
+  },
+  {
+    "content_id": "10055001009",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:9",
+    "media_type": "Text",
+    "index_reference": "55001009",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;ambaye alituokoa na kutuita katika mwito mtakatifu: si kwa kadiri ya matendo yetu mema, bali kwa sababu ya kusudi lake mwenyewe na neema yake. Neema hii tulipewa katika Al-Masihi Isa tangu milele.</p>"
+  },
+  {
+    "content_id": "10055001010",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:10",
+    "media_type": "Text",
+    "index_reference": "55001010",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Lakini sasa imefunuliwa kwa kudhihirishwa kwake Mwokozi wetu, Al-Masihi Isa, ambaye amebatilisha mauti na kuleta uzima na kutokufa kupitia kwa Injili.</p>"
+  },
+  {
+    "content_id": "10055001011",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:11",
+    "media_type": "Text",
+    "index_reference": "55001011",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Nami nimewekwa kuwa mhubiri, mtume na mwalimu wa Injili hii.</p>"
+  },
+  {
+    "content_id": "10055001012",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:12",
+    "media_type": "Text",
+    "index_reference": "55001012",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Hii ndiyo sababu ninateseka namna hii, lakini sioni haya kwa maana ninamjua yeye niliyemwamini, na kusadiki ya kuwa anaweza kukilinda kile nilichokiweka amana kwake hadi siku ile.</p>"
+  },
+  {
+    "content_id": "10055001013",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:13",
+    "media_type": "Text",
+    "index_reference": "55001013",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Shika kwa uthabiti kielelezo cha mafundisho yenye uzima uliyoyasikia kwangu, pamoja na imani na upendo katika Al-Masihi Isa.</p>"
+  },
+  {
+    "content_id": "10055001014",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:14",
+    "media_type": "Text",
+    "index_reference": "55001014",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Ilinde ile amana uliyokabidhiwa kwa Roho wa Mungu akaaye ndani yetu.</p>"
+  },
+  {
+    "content_id": "10055001015",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:15",
+    "media_type": "Text",
+    "index_reference": "55001015",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Unajua ya kuwa watu wote katika jimbo la Asia wameniacha, miongoni mwao wamo Filego na Hermogene.</p>"
+  },
+  {
+    "content_id": "10055001016",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:16",
+    "media_type": "Text",
+    "index_reference": "55001016",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Bwana Isa akawahurumie watu wa nyumbani mwa Onesiforo, kwa sababu aliniburudisha mara kwa mara, wala hakuionea aibu minyororo yangu.</p>"
+  },
+  {
+    "content_id": "10055001017",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:17",
+    "media_type": "Text",
+    "index_reference": "55001017",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Badala yake, alipokuwa Rumi alinitafuta kwa bidii hadi akanipata.</p>"
+  },
+  {
+    "content_id": "10055001018",
+    "version": "1.0.2",
+    "title": "2 Timotheo 1:18",
+    "media_type": "Text",
+    "index_reference": "55001018",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;Bwana Isa na amjalie kupata rehema zake siku ile! Nawe unajua vyema jinsi alivyonisaidia huko Efeso.</p>"
+  },
+  {
+    "content_id": "10055002001",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:1",
+    "media_type": "Text",
+    "index_reference": "55002001",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Basi wewe, mwanangu, uwe hodari katika neema iliyo ndani ya Al-Masihi Isa.</p>"
+  },
+  {
+    "content_id": "10055002002",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:2",
+    "media_type": "Text",
+    "index_reference": "55002002",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Nayo mambo yale uliyonisikia nikiyasema mbele ya mashahidi wengi, uwakabidhi watu waaminifu watakaoweza kuwafundisha watu wengine vilevile.</p>"
+  },
+  {
+    "content_id": "10055002003",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:3",
+    "media_type": "Text",
+    "index_reference": "55002003",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Vumilia taabu pamoja nasi kama askari mwema wa Al-Masihi Isa.</p>"
+  },
+  {
+    "content_id": "10055002004",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:4",
+    "media_type": "Text",
+    "index_reference": "55002004",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Hakuna askari yeyote ambaye akiwa vitani hujishughulisha na mambo ya kawaida ya maisha haya kwa sababu nia yake ni kumpendeza yule aliyemwandika awe askari.</p>"
+  },
+  {
+    "content_id": "10055002005",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:5",
+    "media_type": "Text",
+    "index_reference": "55002005",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Vivyo hivyo, mwanariadha hawezi kupewa tuzo ya ushindi asiposhindana kulingana na kanuni za mashindano.</p>"
+  },
+  {
+    "content_id": "10055002006",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:6",
+    "media_type": "Text",
+    "index_reference": "55002006",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Mkulima mwenye bidii ya kazi ndiye anayestahili kuwa wa kwanza kupata fungu la mavuno.</p>"
+  },
+  {
+    "content_id": "10055002007",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:7",
+    "media_type": "Text",
+    "index_reference": "55002007",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Fikiri sana kuhusu haya nisemayo, kwa maana Mwenyezi Mungu atakupa ufahamu katika mambo haya yote.</p>"
+  },
+  {
+    "content_id": "10055002008",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:8",
+    "media_type": "Text",
+    "index_reference": "55002008",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Mkumbuke Isa Al-Masihi aliyefufuliwa kutoka kwa wafu, yeye aliye wa uzao wa Daudi. Hii ndiyo Injili yangu,</p>"
+  },
+  {
+    "content_id": "10055002009",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:9",
+    "media_type": "Text",
+    "index_reference": "55002009",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;ambayo kwayo ninateseka hata kufikia hatua ya kufungwa minyororo kama mhalifu. Lakini neno la Mungu halifungwi.</p>"
+  },
+  {
+    "content_id": "10055002010",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:10",
+    "media_type": "Text",
+    "index_reference": "55002010",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Kwa hiyo ninavumilia mambo yote kwa ajili ya wateule wa Mungu, kusudi wao nao wapate wokovu ulio katika Al-Masihi Isa, pamoja na utukufu wa milele.</p>"
+  },
+  {
+    "content_id": "10055002011",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:11",
+    "media_type": "Text",
+    "index_reference": "55002011",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Hili ni neno la kuaminiwa: Kama tumekufa pamoja naye, tutaishi pia pamoja naye.</p>"
+  },
+  {
+    "content_id": "10055002012",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:12",
+    "media_type": "Text",
+    "index_reference": "55002012",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Kama tukistahimili, pia tutatawala pamoja naye. Kama tukimkana, naye atatukana.</p>"
+  },
+  {
+    "content_id": "10055002013",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:13",
+    "media_type": "Text",
+    "index_reference": "55002013",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Tusipoaminika, yeye hudumu akiwa mwaminifu, kwa maana hawezi kujikana mwenyewe.</p>"
+  },
+  {
+    "content_id": "10055002014",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:14",
+    "media_type": "Text",
+    "index_reference": "55002014",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Endelea kuwakumbusha mambo haya, ukiwaonya mbele za Mungu waache kushindana kwa maneno ambayo hayana faida yoyote, bali huwaangamiza tu wale wanaoyasikia.</p>"
+  },
+  {
+    "content_id": "10055002015",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:15",
+    "media_type": "Text",
+    "index_reference": "55002015",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Jitahidi kujionesha kwa Mungu kuwa umekubaliwa naye, mtendakazi asiye na sababu ya kuona aibu, ukilitumia kwa usahihi neno la kweli.</p>"
+  },
+  {
+    "content_id": "10055002016",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:16",
+    "media_type": "Text",
+    "index_reference": "55002016",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Jiepushe na maneno machafu yasiyo ya utauwa, kwa maana hayo huzidi kuwatosa watu katika kutomcha Mungu.</p>"
+  },
+  {
+    "content_id": "10055002017",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:17",
+    "media_type": "Text",
+    "index_reference": "55002017",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Mafundisho yao yataenea kama kidonda kisichopona. Miongoni mwao wamo Himenayo na Fileto,</p>"
+  },
+  {
+    "content_id": "10055002018",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:18",
+    "media_type": "Text",
+    "index_reference": "55002018",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;ambao wameiacha kweli, wakisema kwamba ufufuo wa wafu umekwisha kupita, nao hupindua imani ya baadhi ya watu.</p>"
+  },
+  {
+    "content_id": "10055002019",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:19",
+    "media_type": "Text",
+    "index_reference": "55002019",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>19</sup>&nbsp;Lakini msingi wa Mungu ulio imara umesimama, ukiwa na muhuri wenye maandishi haya: “Mwenyezi Mungu anawajua walio wake”; tena, “Kila alitajaye jina la Mwenyezi Mungu na auache uovu.”</p>"
+  },
+  {
+    "content_id": "10055002020",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:20",
+    "media_type": "Text",
+    "index_reference": "55002020",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>20</sup>&nbsp;Katika nyumba kubwa si kwamba kuna vyombo vya dhahabu na fedha tu, bali pia vimo vyombo vya miti na vya udongo; vingine kwa matumizi maalum, na vingine kwa matumizi ya kawaida.</p>"
+  },
+  {
+    "content_id": "10055002021",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:21",
+    "media_type": "Text",
+    "index_reference": "55002021",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>21</sup>&nbsp;Basi ikiwa mtu amejitakasa na kujitenga na hayo niliyoyataja, atakuwa chombo maalum, kilichotengwa na ambacho kinamfaa mwenye nyumba, kimeandaliwa tayari kwa kila kazi njema.</p>"
+  },
+  {
+    "content_id": "10055002022",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:22",
+    "media_type": "Text",
+    "index_reference": "55002022",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>22</sup>&nbsp;Zikimbie tamaa mbaya za ujana, ufuate haki, imani, upendo na amani pamoja na wale wamwitao Bwana Isa kwa moyo safi.</p>"
+  },
+  {
+    "content_id": "10055002023",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:23",
+    "media_type": "Text",
+    "index_reference": "55002023",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>23</sup>&nbsp;Jiepushe na mabishano ya kipumbavu na yasiyo na maana, kwa kuwa unajua hayo huzaa magomvi.</p>"
+  },
+  {
+    "content_id": "10055002024",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:24",
+    "media_type": "Text",
+    "index_reference": "55002024",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>24</sup>&nbsp;Tena haimpasi mtumishi wa Bwana Isa kuwa mgomvi, bali inampasa awe mwema kwa kila mtu, awezaye kufundisha, tena mvumilivu.</p>"
+  },
+  {
+    "content_id": "10055002025",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:25",
+    "media_type": "Text",
+    "index_reference": "55002025",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>25</sup>&nbsp;Inampasa kuwaonya kwa upole wale wanaopingana naye, kwa matumaini kwamba Mungu atawajalia kutubu na kuijua kweli,</p>"
+  },
+  {
+    "content_id": "10055002026",
+    "version": "1.0.2",
+    "title": "2 Timotheo 2:26",
+    "media_type": "Text",
+    "index_reference": "55002026",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>26</sup>&nbsp;ili fahamu zao ziwarudie tena, nao waponyoke katika mtego wa ibilisi ambaye amewateka wapate kufanya mapenzi yake.</p>"
+  },
+  {
+    "content_id": "10055003001",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:1",
+    "media_type": "Text",
+    "index_reference": "55003001",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Lakini yakupasa ufahamu jambo hili: kwamba siku za mwisho kutakuwa na nyakati za hatari.</p>"
+  },
+  {
+    "content_id": "10055003002",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:2",
+    "media_type": "Text",
+    "index_reference": "55003002",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Kwa maana watu watakuwa wenye kujipenda wenyewe, wenye kupenda fedha, wenye kujisifu, wenye kiburi, wenye kumkufuru Mungu, wasiotii wazazi wao, wasio na shukrani, wasio watakatifu,</p>"
+  },
+  {
+    "content_id": "10055003003",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:3",
+    "media_type": "Text",
+    "index_reference": "55003003",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;wasio na upendo, wasiopenda kupatanishwa, wasingiziaji, wasiozuia tamaa zao, wakatili, wasiopenda mema,</p>"
+  },
+  {
+    "content_id": "10055003004",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:4",
+    "media_type": "Text",
+    "index_reference": "55003004",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;wasaliti, wakaidi, waliojaa majivuno, wanaopenda anasa kuliko kumpenda Mungu:</p>"
+  },
+  {
+    "content_id": "10055003005",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:5",
+    "media_type": "Text",
+    "index_reference": "55003005",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;wakiwa na mfano wa utauwa kwa nje, lakini wakizikana nguvu za Mungu. Jiepushe na watu kama hao.</p>"
+  },
+  {
+    "content_id": "10055003006",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:6",
+    "media_type": "Text",
+    "index_reference": "55003006",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Miongoni mwao wamo wale wajiingizao katika nyumba za watu na kuwachukua mateka wanawake wajinga, waliolemewa na dhambi zao na kuyumbishwa na aina zote za tamaa mbaya.</p>"
+  },
+  {
+    "content_id": "10055003007",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:7",
+    "media_type": "Text",
+    "index_reference": "55003007",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Hawa hujifunza siku zote, lakini kamwe hawawezi kuufikia ujuzi wa kweli.</p>"
+  },
+  {
+    "content_id": "10055003008",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:8",
+    "media_type": "Text",
+    "index_reference": "55003008",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Kama vile Yane na Yambre walivyopingana na Musa, vivyo hivyo watu hawa hupingana na kweli. Hawa ni watu wenye akili zilizopotoka, ambao wamekataliwa kwa mambo ya imani.</p>"
+  },
+  {
+    "content_id": "10055003009",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:9",
+    "media_type": "Text",
+    "index_reference": "55003009",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Lakini hawataendelea sana, kwa sababu upumbavu wao utakuwa dhahiri kwa watu wote, kama vile upumbavu wa hao watu wawili ulivyokuwa dhahiri.</p>"
+  },
+  {
+    "content_id": "10055003010",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:10",
+    "media_type": "Text",
+    "index_reference": "55003010",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Lakini wewe umeyajua mafundisho yangu, mwenendo, makusudi, imani, uvumilivu, upendo, ustahimilivu,</p>"
+  },
+  {
+    "content_id": "10055003011",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:11",
+    "media_type": "Text",
+    "index_reference": "55003011",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;mateso na taabu, yaani mambo yote yaliyonipata huko Antiokia, Ikonio na Listra, mateso yote niliyostahimili, lakini Bwana Isa aliniokoa katika hayo yote.</p>"
+  },
+  {
+    "content_id": "10055003012",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:12",
+    "media_type": "Text",
+    "index_reference": "55003012",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Naam, yeyote anayetaka kuishi maisha ya utauwa ndani ya Al-Masihi Isa atateswa.</p>"
+  },
+  {
+    "content_id": "10055003013",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:13",
+    "media_type": "Text",
+    "index_reference": "55003013",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Lakini watu waovu na wadanganyaji watazidi kuwa waovu, wakidanganya na kudanganyika.</p>"
+  },
+  {
+    "content_id": "10055003014",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:14",
+    "media_type": "Text",
+    "index_reference": "55003014",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Bali wewe, udumu katika yale uliyojifunza na kuyaamini kwa uthabiti, ukitambua ya kuwa ulijifunza hayo kutoka kwa nani,</p>"
+  },
+  {
+    "content_id": "10055003015",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:15",
+    "media_type": "Text",
+    "index_reference": "55003015",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;na jinsi tangu utoto umeyajua Maandiko Matakatifu, ambayo yanaweza kukuhekimisha upate wokovu kupitia kwa imani katika Al-Masihi Isa.</p>"
+  },
+  {
+    "content_id": "10055003016",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:16",
+    "media_type": "Text",
+    "index_reference": "55003016",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Maandiko yote yamevuviwa na Mungu, na yafaa kwa mafundisho, kwa kuwaonya watu makosa yao, kwa kuwaongoza na kwa kuwafundisha katika haki,</p>"
+  },
+  {
+    "content_id": "10055003017",
+    "version": "1.0.2",
+    "title": "2 Timotheo 3:17",
+    "media_type": "Text",
+    "index_reference": "55003017",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;ili mtu wa Mungu awe amekamilishwa, apate kutenda kila kazi njema.</p>"
+  },
+  {
+    "content_id": "10055004001",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:1",
+    "media_type": "Text",
+    "index_reference": "55004001",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Nakuagiza mbele za Mungu na mbele za Al-Masihi Isa, atakayewahukumu watu walio hai na waliokufa wakati wa kuja kwake na ufalme wake, kwamba:</p>"
+  },
+  {
+    "content_id": "10055004002",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:2",
+    "media_type": "Text",
+    "index_reference": "55004002",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Hubiri Neno; kuwa tayari wakati ufaao na wakati usiofaa; karipia, kemea na utie moyo kwa uvumilivu wote na kwa mafundisho mazuri.</p>"
+  },
+  {
+    "content_id": "10055004003",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:3",
+    "media_type": "Text",
+    "index_reference": "55004003",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Maana wakati utakuja watu watakapokataa kuyakubali mafundisho yenye uzima. Badala yake, ili kutimiza tamaa zao wenyewe, watajikusanyia idadi kubwa ya walimu watakaowaambia yale masikio yao yanatamani kusikia.</p>"
+  },
+  {
+    "content_id": "10055004004",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:4",
+    "media_type": "Text",
+    "index_reference": "55004004",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Watakataa kusikiliza kweli na kuzigeukia hadithi za uongo.</p>"
+  },
+  {
+    "content_id": "10055004005",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:5",
+    "media_type": "Text",
+    "index_reference": "55004005",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Bali wewe, vumilia mateso, fanya kazi ya mhubiri wa Injili, timiza wajibu wote wa huduma yako.</p>"
+  },
+  {
+    "content_id": "10055004006",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:6",
+    "media_type": "Text",
+    "index_reference": "55004006",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Kwa maana mimi sasa ni tayari kumiminwa kama sadaka ya kinywaji, nayo saa yangu ya kuondoka imetimia.</p>"
+  },
+  {
+    "content_id": "10055004007",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:7",
+    "media_type": "Text",
+    "index_reference": "55004007",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Nimevipiga vita vizuri, mashindano nimeyamaliza, imani nimeilinda.</p>"
+  },
+  {
+    "content_id": "10055004008",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:8",
+    "media_type": "Text",
+    "index_reference": "55004008",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Sasa nimewekewa taji la haki ambalo Bwana, Mwamuzi wa haki, atanitunukia siku ile: wala si mimi tu, bali pia wote ambao wamengoja kwa shauku kudhihirishwa kwake.</p>"
+  },
+  {
+    "content_id": "10055004009",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:9",
+    "media_type": "Text",
+    "index_reference": "55004009",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Jitahidi kuja kwangu upesi</p>"
+  },
+  {
+    "content_id": "10055004010",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:10",
+    "media_type": "Text",
+    "index_reference": "55004010",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;kwa sababu Dema, kwa kuupenda ulimwengu, ameniacha na ameenda Thesalonike. Kreske ameenda Galatia, na Tito ameenda Dalmatia.</p>"
+  },
+  {
+    "content_id": "10055004011",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:11",
+    "media_type": "Text",
+    "index_reference": "55004011",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Ni Luka pekee aliye hapa nami. Mtafute Marko uje naye, kwa sababu ananifaa sana katika huduma yangu.</p>"
+  },
+  {
+    "content_id": "10055004012",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:12",
+    "media_type": "Text",
+    "index_reference": "55004012",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Nimemtuma Tikiko huko Efeso.</p>"
+  },
+  {
+    "content_id": "10055004013",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:13",
+    "media_type": "Text",
+    "index_reference": "55004013",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Utakapokuja, niletee lile joho nililoliacha kwa Karpo huko Troa, na vile vitabu vyangu, hasa vile vya ngozi.</p>"
+  },
+  {
+    "content_id": "10055004014",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:14",
+    "media_type": "Text",
+    "index_reference": "55004014",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Iskanda yule mfua chuma alinitendea ubaya mkubwa. Bwana Isa atamlipa kwa ajili ya yale aliyotenda.</p>"
+  },
+  {
+    "content_id": "10055004015",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:15",
+    "media_type": "Text",
+    "index_reference": "55004015",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Wewe pia ujihadhari naye kwa sababu aliyapinga maneno yetu vikali.</p>"
+  },
+  {
+    "content_id": "10055004016",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:16",
+    "media_type": "Text",
+    "index_reference": "55004016",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Katika utetezi wangu wa mara ya kwanza, hakuna hata mmoja aliyeniunga mkono, bali kila mmoja aliniacha. Naomba wasihesabiwe hatia kwa jambo hilo.</p>"
+  },
+  {
+    "content_id": "10055004017",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:17",
+    "media_type": "Text",
+    "index_reference": "55004017",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Lakini Bwana Isa alisimama upande wangu akanitia nguvu, ili kupitia kwangu lile Neno lihubiriwe kwa ukamilifu, watu wote Mataifa wapate kulisikia. Mimi niliokolewa kutoka kinywa cha simba.</p>"
+  },
+  {
+    "content_id": "10055004018",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:18",
+    "media_type": "Text",
+    "index_reference": "55004018",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;Bwana Isa ataniokoa katika kila shambulio baya na kunileta salama katika ufalme wake wa mbinguni. Atukuzwe milele na milele. Amen.</p>"
+  },
+  {
+    "content_id": "10055004019",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:19",
+    "media_type": "Text",
+    "index_reference": "55004019",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>19</sup>&nbsp;Wasalimu Prisila na Akila, na wote wa nyumbani mwa Onesiforo.</p>"
+  },
+  {
+    "content_id": "10055004020",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:20",
+    "media_type": "Text",
+    "index_reference": "55004020",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>20</sup>&nbsp;Erasto alibaki Korintho, nami nikamwacha Trofimo huko Mileto akiwa mgonjwa.</p>"
+  },
+  {
+    "content_id": "10055004021",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:21",
+    "media_type": "Text",
+    "index_reference": "55004021",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>21</sup>&nbsp;Jitahidi ufike huku kabla ya majira ya baridi. Eubulo anakusalimu, vivyo hivyo Pude, Lino, Klaudia na ndugu wote.</p>"
+  },
+  {
+    "content_id": "10055004022",
+    "version": "1.0.2",
+    "title": "2 Timotheo 4:22",
+    "media_type": "Text",
+    "index_reference": "55004022",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>22</sup>&nbsp;Bwana Isa awe pamoja na roho yako. Neema iwe pamoja nanyi.</p>"
+  }
+]

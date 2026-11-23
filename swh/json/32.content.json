@@ -1,0 +1,482 @@
+[
+  {
+    "content_id": "10032001001",
+    "version": "1.0.2",
+    "title": "Yona 1:1",
+    "media_type": "Text",
+    "index_reference": "32001001",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Neno la Mwenyezi Mungu lilimjia Yona mwana wa Amitai:</p>"
+  },
+  {
+    "content_id": "10032001002",
+    "version": "1.0.2",
+    "title": "Yona 1:2",
+    "media_type": "Text",
+    "index_reference": "32001002",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;“Nenda mji mkubwa wa Ninawi ukahubiri dhidi yake, kwa sababu uovu wake umefika kwangu.”</p>"
+  },
+  {
+    "content_id": "10032001003",
+    "version": "1.0.2",
+    "title": "Yona 1:3",
+    "media_type": "Text",
+    "index_reference": "32001003",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Lakini Yona alimkimbia Mwenyezi Mungu na kuelekea Tarshishi. Alishuka hadi Yafa, ambapo alikuta meli iliyokuwa imepangwa kuelekea bandari ile. Baada ya kulipa nauli, akapanda kwenye meli na kuelekea Tarshishi ili kumkimbia Mwenyezi Mungu.</p>"
+  },
+  {
+    "content_id": "10032001004",
+    "version": "1.0.2",
+    "title": "Yona 1:4",
+    "media_type": "Text",
+    "index_reference": "32001004",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Ndipo Mwenyezi Mungu akatuma upepo mkali baharini, nayo dhoruba kali sana ikavuma hata meli ikawa hatarini ya kuvunjika.</p>"
+  },
+  {
+    "content_id": "10032001005",
+    "version": "1.0.2",
+    "title": "Yona 1:5",
+    "media_type": "Text",
+    "index_reference": "32001005",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Mabaharia wote waliogopa na kila mmoja akamlilia mungu wake mwenyewe. Nao wakatupa mizigo baharini ili meli ipungue uzito. Lakini Yona alikuwa ameteremkia chumba cha ndani ya meli, ambapo alilala na kupatwa na usingizi mzito.</p>"
+  },
+  {
+    "content_id": "10032001006",
+    "version": "1.0.2",
+    "title": "Yona 1:6",
+    "media_type": "Text",
+    "index_reference": "32001006",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Nahodha akamwendea na kusema, “Wewe unawezaje kulala? Amka ukamwite mungu wako! Huenda akatuangalia, tusiangamie.”</p>"
+  },
+  {
+    "content_id": "10032001007",
+    "version": "1.0.2",
+    "title": "Yona 1:7",
+    "media_type": "Text",
+    "index_reference": "32001007",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Kisha mabaharia wakasemezana wao kwa wao, “Njooni, tupige kura tumtafute anayehusika na maafa haya.” Wakapiga kura, nayo kura ikamwangukia Yona.</p>"
+  },
+  {
+    "content_id": "10032001008",
+    "version": "1.0.2",
+    "title": "Yona 1:8",
+    "media_type": "Text",
+    "index_reference": "32001008",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Kwa hiyo walimuuliza, “Tuambie, ni nani anayehusika kwa kutuletea tatizo hili lote? Unafanya kazi gani? Umetoka wapi? Nchi yako ni ipi? Wewe ni kutoka taifa lipi?”</p>"
+  },
+  {
+    "content_id": "10032001009",
+    "version": "1.0.2",
+    "title": "Yona 1:9",
+    "media_type": "Text",
+    "index_reference": "32001009",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Akajibu, “Mimi ni Mwebrania, nami namwabudu Mwenyezi Mungu, Mungu wa Mbinguni, aliyeumba bahari na nchi kavu.”</p>"
+  },
+  {
+    "content_id": "10032001010",
+    "version": "1.0.2",
+    "title": "Yona 1:10",
+    "media_type": "Text",
+    "index_reference": "32001010",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Hili liliwaogopesha nao wakamuuliza, “Umefanya nini?” (Walijua alikuwa anamkimbia Mwenyezi Mungu, kwa sababu alishawaambia hivyo.)</p>"
+  },
+  {
+    "content_id": "10032001011",
+    "version": "1.0.2",
+    "title": "Yona 1:11",
+    "media_type": "Text",
+    "index_reference": "32001011",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Bahari ilikuwa inazidi kuchafuka. Kwa hiyo walimuuliza, “Tukutendee nini ili kufanya bahari itulie kwa ajili yetu?”</p>"
+  },
+  {
+    "content_id": "10032001012",
+    "version": "1.0.2",
+    "title": "Yona 1:12",
+    "media_type": "Text",
+    "index_reference": "32001012",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Akawajibu, “Niinueni mnitupe baharini, nayo itakuwa shwari. Ninajua mawimbi haya makubwa yamewatokea kwa ajili ya kosa langu.”</p>"
+  },
+  {
+    "content_id": "10032001013",
+    "version": "1.0.2",
+    "title": "Yona 1:13",
+    "media_type": "Text",
+    "index_reference": "32001013",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Badala yake, wale watu walijitahidi kupiga makasia walivyoweza ili wapate kurudi pwani. Lakini hawakuweza, kwa kuwa bahari ilizidi kuchafuka kuliko mwanzo.</p>"
+  },
+  {
+    "content_id": "10032001014",
+    "version": "1.0.2",
+    "title": "Yona 1:14",
+    "media_type": "Text",
+    "index_reference": "32001014",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Ndipo wakamlilia Mwenyezi Mungu, “Ee Mwenyezi Mungu, tafadhali usituue kwa kumuua mtu huyu. Usituhesabie hatia kwa kumuua mtu asiyekuwa na hatia, kwa kuwa wewe, Ee Mwenyezi Mungu, umefanya kama ilivyokupendeza.”</p>"
+  },
+  {
+    "content_id": "10032001015",
+    "version": "1.0.2",
+    "title": "Yona 1:15",
+    "media_type": "Text",
+    "index_reference": "32001015",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Kisha wakamchukua Yona, wakamtupa baharini, nayo bahari iliyokuwa imechafuka ikatulia.</p>"
+  },
+  {
+    "content_id": "10032001016",
+    "version": "1.0.2",
+    "title": "Yona 1:16",
+    "media_type": "Text",
+    "index_reference": "32001016",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Katika jambo hili watu wakamwogopa Mwenyezi Mungu sana, wakamtolea Mwenyezi Mungu dhabihu na kumwekea nadhiri.</p>"
+  },
+  {
+    "content_id": "10032001017",
+    "version": "1.0.2",
+    "title": "Yona 1:17",
+    "media_type": "Text",
+    "index_reference": "32001017",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Lakini Mwenyezi Mungu akamwandaa samaki mkubwa sana kummeza Yona, naye Yona alikuwa ndani ya tumbo la samaki huyo kwa siku tatu, usiku na mchana.</p>"
+  },
+  {
+    "content_id": "10032002001",
+    "version": "1.0.2",
+    "title": "Yona 2:1",
+    "media_type": "Text",
+    "index_reference": "32002001",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Akiwa ndani ya tumbo la samaki, Yona alimwomba Mwenyezi Mungu, Mungu wake.</p>"
+  },
+  {
+    "content_id": "10032002002",
+    "version": "1.0.2",
+    "title": "Yona 2:2",
+    "media_type": "Text",
+    "index_reference": "32002002",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Akasema: “Katika shida yangu nalimwita Mwenyezi Mungu, naye akanijibu. Kutoka kina cha kaburi niliomba msaada, nawe ukasikiliza kilio changu.</p>"
+  },
+  {
+    "content_id": "10032002003",
+    "version": "1.0.2",
+    "title": "Yona 2:3",
+    "media_type": "Text",
+    "index_reference": "32002003",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Ulinitupa kwenye kilindi, ndani kabisa ya moyo wa bahari, mikondo ya maji ilinizunguka; mawimbi yako yote na viwimbi vilipita juu yangu.</p>"
+  },
+  {
+    "content_id": "10032002004",
+    "version": "1.0.2",
+    "title": "Yona 2:4",
+    "media_type": "Text",
+    "index_reference": "32002004",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Nikasema, ‘Nimefukuziwa mbali na uso wako, hata hivyo nitatazama tena kuelekea Hekalu lako takatifu.’</p>"
+  },
+  {
+    "content_id": "10032002005",
+    "version": "1.0.2",
+    "title": "Yona 2:5",
+    "media_type": "Text",
+    "index_reference": "32002005",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Maji yaliyonimeza yalinitisha, kilindi kilinizunguka; mwani ulijisokota kichwani pangu.</p>"
+  },
+  {
+    "content_id": "10032002006",
+    "version": "1.0.2",
+    "title": "Yona 2:6",
+    "media_type": "Text",
+    "index_reference": "32002006",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Nilizama chini sana hata pande za mwisho za milima, makomeo ya hiyo nchi yalinifungia hata milele. Lakini uliuleta uhai wangu kutoka shimoni, Ee Mwenyezi Mungu, Mungu wangu.</p>"
+  },
+  {
+    "content_id": "10032002007",
+    "version": "1.0.2",
+    "title": "Yona 2:7",
+    "media_type": "Text",
+    "index_reference": "32002007",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;“Uhai wangu ulipokuwa unatoka, nilikukumbuka wewe, Mwenyezi Mungu, nayo maombi yangu yalikufikia wewe, katika Hekalu lako takatifu.</p>"
+  },
+  {
+    "content_id": "10032002008",
+    "version": "1.0.2",
+    "title": "Yona 2:8",
+    "media_type": "Text",
+    "index_reference": "32002008",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;“Wale watu wanaoshikilia sanamu batili hupoteza neema yao.</p>"
+  },
+  {
+    "content_id": "10032002009",
+    "version": "1.0.2",
+    "title": "Yona 2:9",
+    "media_type": "Text",
+    "index_reference": "32002009",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Lakini mimi nitakutolea dhabihu, kwa sauti za shukrani na shangwe. Lile nililowekea nadhiri nitalitimiza. Wokovu watoka kwa Mwenyezi Mungu.”</p>"
+  },
+  {
+    "content_id": "10032002010",
+    "version": "1.0.2",
+    "title": "Yona 2:10",
+    "media_type": "Text",
+    "index_reference": "32002010",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Basi Mwenyezi Mungu akamwamuru yule samaki, naye akamtapika Yona katika nchi kavu.</p>"
+  },
+  {
+    "content_id": "10032003001",
+    "version": "1.0.2",
+    "title": "Yona 3:1",
+    "media_type": "Text",
+    "index_reference": "32003001",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Ndipo neno la Mwenyezi Mungu likamjia Yona mara ya pili:</p>"
+  },
+  {
+    "content_id": "10032003002",
+    "version": "1.0.2",
+    "title": "Yona 3:2",
+    "media_type": "Text",
+    "index_reference": "32003002",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;“Ondoka uende katika mji mkubwa wa Ninawi, ukautangazie ujumbe ninaokupa.”</p>"
+  },
+  {
+    "content_id": "10032003003",
+    "version": "1.0.2",
+    "title": "Yona 3:3",
+    "media_type": "Text",
+    "index_reference": "32003003",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Yona akalitii neno la Mwenyezi Mungu naye akaenda Ninawi. Basi Ninawi ulikuwa mji maarufu sana, ilichukua siku tatu kuuzunguka.</p>"
+  },
+  {
+    "content_id": "10032003004",
+    "version": "1.0.2",
+    "title": "Yona 3:4",
+    "media_type": "Text",
+    "index_reference": "32003004",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Siku ya kwanza, Yona aliingia mjini. Akatangaza: “Baada ya siku arobaini Ninawi utaangamizwa.”</p>"
+  },
+  {
+    "content_id": "10032003005",
+    "version": "1.0.2",
+    "title": "Yona 3:5",
+    "media_type": "Text",
+    "index_reference": "32003005",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Watu wa Ninawi wakamwamini Mungu, wakatangaza kufunga, watu wote kuanzia mkubwa sana hadi yule mdogo kabisa, wakavaa gunia.</p>"
+  },
+  {
+    "content_id": "10032003006",
+    "version": "1.0.2",
+    "title": "Yona 3:6",
+    "media_type": "Text",
+    "index_reference": "32003006",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Habari zilipomfikia mfalme wa Ninawi, aliondoka kwenye kiti chake cha utawala, akavua majoho yake ya mfalme, akajifunika gunia na kuketi mavumbini.</p>"
+  },
+  {
+    "content_id": "10032003007",
+    "version": "1.0.2",
+    "title": "Yona 3:7",
+    "media_type": "Text",
+    "index_reference": "32003007",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Ndipo akatoa tangazo katika Ninawi yote: “Kwa amri ya mfalme na wakuu wake: “Msiruhusu mtu yeyote au mnyama, makundi ya ng’ombe au wanyama wengine wafugwao, kuonja kitu chochote, msiwaruhusu kula wala kunywa.</p>"
+  },
+  {
+    "content_id": "10032003008",
+    "version": "1.0.2",
+    "title": "Yona 3:8",
+    "media_type": "Text",
+    "index_reference": "32003008",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Bali wanadamu na wanyama wavae gunia. Kila mmoja afanye hima kumwomba Mungu. Waziache njia zao mbaya na udhalimu ulio mikononi mwao.</p>"
+  },
+  {
+    "content_id": "10032003009",
+    "version": "1.0.2",
+    "title": "Yona 3:9",
+    "media_type": "Text",
+    "index_reference": "32003009",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Ni nani ajuaye? Huenda Mungu akaghairi kwa huruma yake akaacha hasira yake kali ili tusiangamie.”</p>"
+  },
+  {
+    "content_id": "10032003010",
+    "version": "1.0.2",
+    "title": "Yona 3:10",
+    "media_type": "Text",
+    "index_reference": "32003010",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Mungu alipoona walivyofanya na jinsi walivyogeuka kutoka njia zao mbaya, akawa na huruma wala hakuleta maangamizi juu yao kama alivyokuwa ameonya.</p>"
+  },
+  {
+    "content_id": "10032004001",
+    "version": "1.0.2",
+    "title": "Yona 4:1",
+    "media_type": "Text",
+    "index_reference": "32004001",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Lakini Yona alichukizwa sana akakasirika.</p>"
+  },
+  {
+    "content_id": "10032004002",
+    "version": "1.0.2",
+    "title": "Yona 4:2",
+    "media_type": "Text",
+    "index_reference": "32004002",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Akamwomba Mwenyezi Mungu, “Ee Mwenyezi Mungu, hili si lile nililolisema nilipokuwa ningali nyumbani? Hii ndiyo sababu niliharakisha kukimbilia Tarshishi. Nikifahamu kuwa wewe ni Mungu mwenye neema na huruma, si mwepesi wa hasira na umejaa upendo, ni Mungu ambaye hughairi katika kupeleka maafa.</p>"
+  },
+  {
+    "content_id": "10032004003",
+    "version": "1.0.2",
+    "title": "Yona 4:3",
+    "media_type": "Text",
+    "index_reference": "32004003",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Sasa, Ee Mwenyezi Mungu, niondolee uhai wangu, kwa kuwa ni afadhali mimi nife kuliko kuishi.”</p>"
+  },
+  {
+    "content_id": "10032004004",
+    "version": "1.0.2",
+    "title": "Yona 4:4",
+    "media_type": "Text",
+    "index_reference": "32004004",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Lakini Mwenyezi Mungu akamjibu, “Je unayo haki yoyote kukasirika?”</p>"
+  },
+  {
+    "content_id": "10032004005",
+    "version": "1.0.2",
+    "title": "Yona 4:5",
+    "media_type": "Text",
+    "index_reference": "32004005",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Yona akatoka nje akaketi mahali upande wa mashariki wa mji. Hapo akajitengenezea kibanda, akaketi kwenye kivuli chake na kungojea ni nini kitakachotokea katika mji.</p>"
+  },
+  {
+    "content_id": "10032004006",
+    "version": "1.0.2",
+    "title": "Yona 4:6",
+    "media_type": "Text",
+    "index_reference": "32004006",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Ndipo Bwana Mwenyezi Mungu akaweka tayari mzabibu na kuufanya uote, kumpa Yona kivuli kilichomfunika kichwa ili kuondoa taabu yake, naye Yona akafurahi sana kwa ajili ya ule mzabibu.</p>"
+  },
+  {
+    "content_id": "10032004007",
+    "version": "1.0.2",
+    "title": "Yona 4:7",
+    "media_type": "Text",
+    "index_reference": "32004007",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Lakini kesho yake asubuhi na mapema Mungu akaamuru buu, autafune mzabibu huo nao ukanyauka.</p>"
+  },
+  {
+    "content_id": "10032004008",
+    "version": "1.0.2",
+    "title": "Yona 4:8",
+    "media_type": "Text",
+    "index_reference": "32004008",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Jua lilipochomoza, Mungu akautuma upepo wa hari wa mashariki, nalo jua likawaka juu ya kichwa cha Yona hadi akazimia. Akatamani kufa, naye akasema, “Ni afadhali mimi nife kuliko kuishi.”</p>"
+  },
+  {
+    "content_id": "10032004009",
+    "version": "1.0.2",
+    "title": "Yona 4:9",
+    "media_type": "Text",
+    "index_reference": "32004009",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Lakini Mungu alimwambia Yona, “Je, unayo haki kukasirika kuhusu mzabibu huo?” Akasema, “Ndiyo, ninayo haki. Nimekasirika kiasi cha kufa.”</p>"
+  },
+  {
+    "content_id": "10032004010",
+    "version": "1.0.2",
+    "title": "Yona 4:10",
+    "media_type": "Text",
+    "index_reference": "32004010",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Lakini Mwenyezi Mungu akamwambia, “Wewe unakasirika kwa ajili ya mzabibu huu, nawe hukuusababisha kuota wala kuutunza. Uliota usiku mmoja, nao ukafa usiku mmoja.</p>"
+  },
+  {
+    "content_id": "10032004011",
+    "version": "1.0.2",
+    "title": "Yona 4:11",
+    "media_type": "Text",
+    "index_reference": "32004011",
+    "language": "swh",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Lakini Ninawi ina zaidi ya watu elfu mia moja na ishirini ambao hawawezi kupambanua kulia au kushoto, pamoja na ng’ombe wengi. Je, hainipasi kufikiri kuhusu mji ule mkubwa?”</p>"
+  }
+]
